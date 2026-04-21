@@ -1,14 +1,12 @@
 ---
 seo:
   title: Write beautiful docs with Markdown
-  description: Ship fast, flexible, and SEO-optimized documentation with beautiful
-    design out of the box. Docus brings together the best of the Nuxt ecosystem.
-    Powered by Nuxt UI.
+  description: Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. Docus brings together the best of the Nuxt ecosystem. Powered by Nuxt UI.
 ---
 
 ::u-page-hero
 #title
-Write beautiful docs with Markdown
+Hello, TBC Design
 
 #description
 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box.
@@ -51,7 +49,7 @@ Shipped with many features
   ---
   #title
   Built with [Nuxt 4]{.text-primary}
-  
+
   #description
   Optimized by the most famous Vue framework. Docus gives you everything you need to build fast, performant, and SEO-friendly websites.
   :::
@@ -64,7 +62,7 @@ Shipped with many features
   ---
   #title
   Powered by [Nuxt UI]{.text-primary}
-  
+
   #description
   Beautiful out of the box, minimal by design but highly customizable. Docus leverages Nuxt UI to give you the best docs writing experience with zero boilerplate, just focus on your content.
   :::
@@ -77,7 +75,7 @@ Shipped with many features
   ---
   #title
   Enhanced Markdown syntax by [Nuxt Content]{.text-primary}
-  
+
   #description
   The only thing you need to take care about is writing your content. Write your pages in Markdown and extend with MDC syntax to embed Nuxt UI or custom Vue components. Structure, routing, and rendering are handled for you.
   :::
@@ -90,7 +88,7 @@ Shipped with many features
   ---
   #title
   Customize with [Nuxt App Config]{.text-primary}
-  
+
   #description
   Update colors, social links, header logos and component styles globally using the `app.config.ts`, no direct code modifications required.
   :::
@@ -103,7 +101,7 @@ Shipped with many features
   ---
   #title
   Edit in production with [Nuxt Studio]{.text-primary}
-  
+
   #description
   Edit your content in production with zero Markdown knowledge required. Let your non technical colleagues collaborate on the documentation and integrate Vue components without code skills.
   :::
@@ -116,7 +114,7 @@ Shipped with many features
   ---
   #title
   Built-in navigation and [full-text search]{.text-primary}
-  
+
   #description
   Only focus on ordering your content, Docus handles the search modal and auto-generates the side navigation for you.
   :::
