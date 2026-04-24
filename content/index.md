@@ -14,7 +14,6 @@ Test documentation site for TBC design
 #links
   :::u-button
   ---
-  color: neutral
   size: xl
   to: /about-tbc-design/introduction
   trailingIcon: i-weui-arrow-outlined
