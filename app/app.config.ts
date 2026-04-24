@@ -1,4 +1,9 @@
 export default defineAppConfig({
+  ui: {
+    colors: {
+      primary: 'sky',
+    },
+  },
   header: {
     title: '',
     logo: {
@@ -7,4 +12,17 @@ export default defineAppConfig({
       alt: 'TBCX Design Docs',
     },
   },
+  assistant: {
+    floatingInput: true,
+    explainWithAi: true,
+    faqQuestions: [],
+    shortcuts: {
+      focusInput: 'meta_i',
+    },
+    icons: {
+      trigger: 'i-lucide-sparkles',
+      explain: 'i-lucide-brain',
+    },
+  },
 })
+
