@@ -6,7 +6,7 @@ seo:
 
 ::u-page-hero
 #title
-Hello, TBC Design
+Hello, TBC Design. How are you
 
 #description
 Test documentation site for TBC design

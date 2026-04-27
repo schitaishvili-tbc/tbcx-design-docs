@@ -37,6 +37,8 @@ description: A clickable element used to trigger actions and communicate calls t
 
   Buttons should not be used as navigational elements. When the desired action is to take the user to a new page, use a link component instead.
 
+  :video{controls height="90" src="https://www.youtube.com/watch?v=AF5mBphAefA" width="100%"}
+
   ## Variants
 
   The Button component is organized across four variant dimensions: **Type**, **Size**, **State**, and **Disabled**.
@@ -217,10 +219,6 @@ description: A clickable element used to trigger actions and communicate calls t
 
     ::::note
     **Icon-only accessibility:** Icon flat and Icon outlined buttons must always include an `aria-label` or `aria-labelledby` attribute that describes the action. The tooltip text and aria label should match to provide a consistent experience across visual and assistive technology users.
-    ::::
-
-    ::::note
-    **Gua
     ::::
   :::
 
